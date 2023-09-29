@@ -5,7 +5,7 @@
 * ✉️ I know you want me in your team. Just send an [Email](mailto:proftoby97@gmail.com), I'm coming with the sauce
 * 🖥️ Currently Learning K8s
 
-### 🌐 I'm sharing a lot on social media:
+### 🌐 social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/proftoby)
 
 ### 📊 Some Stats to impress you to hire me:
