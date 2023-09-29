@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/proftoby)
 
 ### 📊 Some Stats to impress you to hire me:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=profsam97)](https://git.io/streak-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=profsam&theme=react&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=profsam97&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=profsam97)](https://git.io/streak-stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=profsam97&theme=highcontrast)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=profsam97&theme=react&hide_border=false)<br/>
