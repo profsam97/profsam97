@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">My name is Samuel, I am a Software Engineer with 4 years of professional Experience.</p>
+<p align="left">My name is Samuel, I am a Software Engineer with 4 years of Professional Experience.</p>
 
 * ✉️ I know you want me in your team. Just send an [Email](mailto:proftoby97@gmail.com) 😋
 * 🖥️ Currently Learning K8s
