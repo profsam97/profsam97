@@ -26,8 +26,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-* ✉️ I know you want me in your team. Just send an [Email](mailto:proftoby97@gmail.com) 😋
-* 🖥️ Currently Learning K8s
 
 ### 🌐 social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/proftoby)
