@@ -3,7 +3,7 @@
 <p align="left">My name is Samuel, I am a Software Engineer with 4 years of Professional Experience.</p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-007ACC?style=flat-square&logo=golang&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-007ABC?style=flat-square&logo=golang&logoColor=green)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-ffd300?logo=amazonaws&logoColor=fff&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
