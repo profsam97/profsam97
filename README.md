@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
 <p align="left">My name is Samuel, I am a Software Engineer with 4 years of Professional Experience.</p>
-![Golang(https://img.shields.io/badge/Golang?style=flat-square&logo=golang&logoColor=green)
+![Golang(https://img.shields.io/badge/Golang?style=flat-square&logo=go&logoColor=green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-ffd300?logo=amazonaws&logoColor=fff&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
