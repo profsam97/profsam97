@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">My name is Samuel, I am a Software Engineer with 4 years of Professional Experience.</p>
+<p align="left">My name is Samuel, I am a Software Engineer with 5 years of Professional Experience.</p>
 
 ![Golang](https://img.shields.io/badge/Golang-FF2D20?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
